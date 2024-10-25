@@ -10,7 +10,7 @@
 </url>
 <url>
 <loc>https://chulumancon.github.io/portfolio/ai.html</loc>
-<lastmod>2024-10-25T09:16:54+02:00</lastmod>
+<lastmod>2024-10-25T10:31:11+02:00</lastmod>
 </url>
 <url>
 <loc>https://chulumancon.github.io/portfolio/excel-2.html</loc>
@@ -43,10 +43,6 @@
 <image:loc>https://chulumancon.github.io/portfolio/media/posts/3/gallery/Screenshot-2024-03-01-102513-2-thumbnail.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
-</url>
-<url>
-<loc>https://chulumancon.github.io/portfolio/game-development-with-gadot-game-engine.html</loc>
-<lastmod>2024-10-25T09:16:02+02:00</lastmod>
 </url>
 <url>
 <loc>https://chulumancon.github.io/portfolio/learning-to-code-in-java.html</loc>
@@ -102,7 +98,11 @@
 </url>
 <url>
 <loc>https://chulumancon.github.io/portfolio/mail-merge.html</loc>
-<lastmod>2024-10-25T09:18:31+02:00</lastmod>
+<lastmod>2024-10-25T10:54:03+02:00</lastmod>
+<image:image>
+<image:loc>https://chulumancon.github.io/portfolio/media/posts/12/Screenshot-2024-10-25-105032.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://chulumancon.github.io/portfolio/my-portfolio.html</loc>
@@ -114,7 +114,7 @@
 </url>
 <url>
 <loc>https://chulumancon.github.io/portfolio/netbeans-gui.html</loc>
-<lastmod>2024-10-25T09:47:03+02:00</lastmod>
+<lastmod>2024-10-25T10:16:51+02:00</lastmod>
 <image:image>
 <image:loc>https://chulumancon.github.io/portfolio/media/posts/7/netbeans.jfif</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -122,10 +122,10 @@
 </url>
 <url>
 <loc>https://chulumancon.github.io/portfolio/photo-editing-with-gimp.html</loc>
-<lastmod>2024-10-25T09:16:32+02:00</lastmod>
-</url>
-<url>
-<loc>https://chulumancon.github.io/portfolio/powerpoint-presesntation.html</loc>
-<lastmod>2024-10-25T09:19:09+02:00</lastmod>
+<lastmod>2024-10-25T10:25:22+02:00</lastmod>
+<image:image>
+<image:loc>https://chulumancon.github.io/portfolio/media/posts/9/download-2.jfif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 </urlset>
